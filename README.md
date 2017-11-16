@@ -27,7 +27,7 @@ Maintenant écrit la signature de la méthode dans la classe appropriée, et fai
 
 Enfin, ajoute d'autres tests, et modifie ta méthode pour répondre à tous les cas de tests présentés en exemple.
 
-Tu peux connaître la longueur d'une chaîne avec la méthode length(), par exemple : machaine.length(), si machaine contient "abcd", retournera 3.
+Tu peux connaître la longueur d'une chaîne avec la méthode length(), par exemple : machaine.length(), si machaine contient "abcd", retournera 4.
 
 Tu peux trouver le caractère d'une chaîne à une position particulière avec la méthode charAt(), par exemple : machaine.charAt(3) te donnera la quatrième lettre (car ça commence à zéro). Si machaine contient "abcd", le retour sera donc 'd'.
 
