@@ -3,10 +3,11 @@
 Ecrire une méthode qui, pour une chaîne de caractère donnée, compte le nombre d'occurence d'une lettre donnée.
 
 Par exemple :
-pour "a" et 'a', la méthode doit retourner 1.
-pour "aaaaabbbaa" et 'a', la méthode doit retourner 7.
-pour "bbacbaaa" et 'c', la méthode doit retourner 1.
-pour "bbcc" et 'a', la méthode doit retourner 0.
+
+* pour "a" et 'a', la méthode doit retourner 1.
+* pour "aaaaabbbaa" et 'a', la méthode doit retourner 7.
+* pour "bbacbaaa" et 'c', la méthode doit retourner 1.
+* pour "bbcc" et 'a', la méthode doit retourner 0.
 
 Avant de commencer l'exercice, pose-toi les questions suivantes :
 
